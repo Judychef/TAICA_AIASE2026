@@ -20,6 +20,8 @@
 ---
 
 ## Announcement
+- We summarize [HW2 result here](https://ktchuang.github.io/TAICA_AIASE2026/homeworks/HW2_result/). Details of each student will be checked and sent to each individual soon.
+
 - 4/15 We invite the sharing from a US-based Startup [IrisGo](https://meet.bnext.com.tw/articles/view/52362?) 
 <img src="415_invitedtalk.png" alt="booth" width="200">
 
